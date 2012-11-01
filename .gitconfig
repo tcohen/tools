@@ -1,0 +1,24 @@
+[user]
+	name = Terrance Cohen
+	email = terrance@ogmento.com
+[github]
+    user = tcohen
+    token = 3a32ad3d4ee4d740bf18411968068153
+[color]
+    ui = true
+    diff = auto
+    status = auto
+    branch = auto
+[merge]
+    tool = p4merge
+[mergetool]
+    prompt = false
+[core]
+    excludesfile = /Users/terrance_cohen/.gitignore_global
+    #editor = /Applications/MacVim.app/Contents/MacOS/MacVim --remote
+[difftool "sourcetree"]
+	cmd = /Applications/Others/p4merge.app/Contents/MacOS/p4merge \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/Others/p4merge.app/Contents/MacOS/p4merge \"$BASE\" \"$LOCAL\" \"$REMOTE\" \"$MERGED\"
+	trustExitCode = true
