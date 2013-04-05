@@ -1,3 +1,4 @@
+"this is a test 3
 set nocompatible
 source $VIMRUNTIME/vimrc_example.vim
 
