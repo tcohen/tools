@@ -1,4 +1,5 @@
-> git clone git@github.com:tcohen/tools tools
+> git clone git://github.com/tcohen/tools tools
+(use git@github.com:tcohen/tools instead for push/pull SSH, which will require credentials)
 
 Mac/Linux:
 
