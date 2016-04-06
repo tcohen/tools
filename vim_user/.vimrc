@@ -193,7 +193,7 @@ nnoremap <Leader>g i    //protection scope Type         name                = de
 " the vim clipboard and the Windows clipboard are the same
 set clipboard=unnamed
 " where to load plugins
-set runtimepath=$VIMRUNTIME,tools/vim_user/
+set runtimepath=$VIMRUNTIME,~/tools/vim_user/
 " use wildmenu http://www.vim.org/tips/tip.php?tip_id=1045
 set wildmenu
 "set wildmode=list:longest,full
