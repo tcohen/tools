@@ -1,3 +1,0 @@
-- launch gvim.exe with "--servername GVIM" and set
-    "If no association use" = "C:\Program Files\Vim\vim70\gvim.exe --remote +%line% %path%"
-  in the Search and Replace general options.

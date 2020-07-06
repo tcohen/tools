@@ -1,8 +1,0 @@
-Bugs & Causes
-
--   Bug: save with a single visible buffer causes ":  " prompt in command line.
-    Cause: mruex.vim
-
--   Delay after <Leader>b or <Leader>m for "make" command
-    Cause: showmarks.vim uses \m{?} and bufexplorer.vim uses \b{?}
-
