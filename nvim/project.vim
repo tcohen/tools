@@ -1,1 +1,1 @@
-source ~/tools/vim_user/projects/Generic.vim
+source ~/tools/nvim/projects/Core_Remote.vim
